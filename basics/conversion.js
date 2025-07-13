@@ -54,3 +54,8 @@ console.log(null>=0);
 console.log(null>0);
 
 // comparaision treat null as 0 .
+// triple equal --> strict check 
+
+console.log("2"==2);//true 
+console.log("2"===2);// false ---> strict check along with datatype 
+
